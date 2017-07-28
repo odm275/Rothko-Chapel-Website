@@ -1,0 +1,23 @@
+#map {
+       height: 20%;
+       width: 20%;
+       padding: 0;
+       margin:0;
+     }
+#welcome{
+  padding-left:100px;
+  padding-right:600px;
+  font-size:20px;
+  font-style:normal;
+}
+.right{
+  float:right;
+}
+#info-box{
+  padding-left:100px;
+  padding-right:300px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
